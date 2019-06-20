@@ -1,0 +1,15 @@
+.card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 172px);
+}
+
+.button--block {
+  display: block;
+  width: 100%;
+}
+
+.title--form {
+  margin-bottom: 24px;
+}
